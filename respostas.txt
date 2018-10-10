@@ -1,0 +1,12 @@
+br0;b;Entre 4 a 6 litros
+br1;c;Descartes
+br2;c;Brasil
+br3;a;Vaticano e Rússia
+br4;e;João Goulart
+br5;b;Dom Quixote
+br6;c;Trilhares
+br7;d;118
+br8;a;Japão e Serra Leoa
+br9;d;Lenda
+brb10;e;7
+

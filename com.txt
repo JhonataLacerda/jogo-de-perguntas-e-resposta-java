@@ -1,0 +1,66 @@
+br0;Normalmente,quantos litros de sangue uma pessoa tem?
+br0;a) Tem entre 2 a 4 litros. 
+br0;b) Tem entre 4 a 6 litros. 
+br0;c) Tem 10 litros. 
+br0;d) Tem 7 litros.
+br0;e) Tem 0,5 litros.
+br1;De quem é a famosa frase “Penso,logo existo"?
+br1;a) Platão
+br1;b) Galileu Galilei
+br1;c) Descartes
+br1;d) Sócrates
+br1;e) Francis Bacon
+br2;De onde é a invenção do chuveiro elétrico?;
+br2;a) França
+br2;b) Inglaterra
+br2;c) Brasil
+br2;d) Austrália
+br2;e) Itália
+br3;Quais o menor e o maior país do mundo?
+br3;a) Vaticano e Rússia
+br3;b) Nauru e China
+br3;c) Mônaco e Canadá
+br3;d) Malta e Estados Unidos
+br3;e) São Marino e Índia
+br4;Qual o nome do presidente do Brasil que ficou conhecido como Jango?
+br4;a) Jânio Quadros
+br4;b) Jacinto Anjos
+br4;c) Getúlio Vargas
+br4;d) João Figueiredo
+br4;e) João Goulart
+br5;Qual o livro mais vendido no mundo a seguir à Bíblia?
+br5;a) O Senhor dos Anéis
+br5;b) Dom Quixote
+br5;c) O Pequeno Príncipe
+br5;d) Ela, a Feiticeira
+br5;e) Um Conto de Duas Cidades
+br6;Quantas casas decimais tem o número pi?
+br6;a) Duas
+br6;b) Centenas
+br6;c) Trilhares
+br6;d) Vinte
+br6;e) Milhares
+br7;Atualmente, quantos elementos químicos a tabela periódica possui?
+br7;a) Cento e treze
+br7;b) Cento e nove
+br7;c) Cento e oito
+br7;d) Cento e dezoito
+br7;e) Noventa e dois
+br8;Quais os países que têm a maior e a menor expectativa de vida do mundo?
+br8;a) Japão e Serra Leoa
+br8;b) Austrália e Afeganistão
+br8;c) Itália e Chade
+br8;d) Brasil e Congo
+br8;e) Estados Unidos e Angola
+br9;O que a palavra legend significa em português?
+br9;a) Legenda
+br9;b) Conto
+br9;c) História
+br9;d) Lenda
+br9;e) Legendário
+brb10;Qual o número mínimo de jogadores numa partida de futebol?
+brb10;a) Oito
+brb10;b) Dez
+brb10;c) Nove
+brb10;d) Cinco
+brb10;e) Sete
